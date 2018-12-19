@@ -73,8 +73,8 @@ Click `RPCdownload` button
 
 If you found any bugs or you have any idea about this extension, please contact me via email jkjh1jkjh1@gmail.com or [create an issue](https://github.com/Kyle-Kyle/baidudl/issues/new).
 
-
-#baidu-dl
+# 中文
+# baidu-dl
 
 它用于从pan.baidu.com中提取高速下载链接。
 
@@ -82,11 +82,11 @@ If you found any bugs or you have any idea about this extension, please contact 
 
 我未维护[旧baidudl扩展程序]（https://chrome.google.com/webstore/detail/baidudl/mccebkegnopjehbdbjbepjkoefnlkhef）。并且已经发现它被修改为**恶意扩展**，它将使用你的facebook令牌做一些未知的事情。如果您不确定所使用的是哪个版本，请重新安装该扩展程序。
 
-##安装
+## 安装
 
-###方法1：[在Chrome网上应用店中查找此扩展程序]（https://chrome.google.com/webstore/detail/baidudl/lflnkcmjnhfedgibjackiibmcdnnoadb）
+### 方法1：[在Chrome网上应用店中查找此扩展程序]（https://chrome.google.com/webstore/detail/baidudl/lflnkcmjnhfedgibjackiibmcdnnoadb）
 
-###方法2：手动安装此扩展程序以获取最新版本：
+### 方法2：手动安装此扩展程序以获取最新版本：
 
 ＃＃＃＃ 步骤1：
 
@@ -108,7 +108,7 @@ If you found any bugs or you have any idea about this extension, please contact 
 
 选择包含baidudl的目录
 
-##如何使用baidudl，以便您的下载速度不受限制
+## 如何使用baidudl，以便您的下载速度不受限制
 
 ！[截图]（https://raw.githubusercontent.com/Kyle-Kyle/baidudl/master/extension/screenshots/screenshot3.png）
 
@@ -123,17 +123,17 @@ If you found any bugs or you have any idea about this extension, please contact 
 
 单击baidudl的图标并等待最多5秒钟以获得真正的下载链接
 
-####步骤3：
+#### 步骤3：
 
 将您要下载的实际下载链接复制到多线程下载器，例如：IDM，FDM（**被百度**禁止），迅雷（如果你是贵宾，你知道）。
 
-###方法2：RPC下载（推荐）
+### 方法2：RPC下载（推荐）
 
 ＃＃＃＃ 步骤1：
 
 在选项中启用RPC模式
 
-####步骤2-3：
+#### 步骤2-3：
 
 与Diretly下载步骤1-2相同
 
@@ -141,7 +141,7 @@ If you found any bugs or you have any idea about this extension, please contact 
 
 打开`baidudl_rpc`，或运行cmd`aria2c --enable-rpc -j 1`
 
-####步骤5：
+#### 步骤5：
 
 单击“RPCdownload”按钮
 
